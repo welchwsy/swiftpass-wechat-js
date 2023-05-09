@@ -5,7 +5,7 @@
 ## 初始化
 
 ```js
-const Swiftpass = require('Swiftpass');
+const Swiftpass = require('swiftpass');
 const config = {
   // subAppId: "",
   partnerKey: "<partnerkey>",
